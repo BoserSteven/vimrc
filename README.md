@@ -1,10 +1,10 @@
 #安装
 
-$ mv vimrc.txt ~/.vimrc
+```$ mv vimrc.txt ~/.vimrc
 
 #生效
 
-$ source ~/.vimrc
+```$ source ~/.vimrc
 
 #说明
 
